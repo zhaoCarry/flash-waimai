@@ -13,7 +13,7 @@ import java.util.Date;
 /**
  * Created by czhou on 1/10/17.
  */
-public class TaskUtils {
+public class TaskUtils { 
 
 	private static final Logger logger = LoggerFactory.getLogger(TaskUtils.class);
 
